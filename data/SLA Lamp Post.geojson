@@ -1,0 +1,3758 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "SLA_LAMP_POST",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79588470003223, 1.3332811157566402 ]
+			},
+			"properties" : {
+				"OBJECTID" : 641,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "B9F2CA3540D4B763",
+				"FMEL_UPD_D" : "20190402161112"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8273612999294, 1.414470956981285 ]
+			},
+			"properties" : {
+				"OBJECTID" : 642,
+				"LAMPPOST_NUMBER" : "30",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "FAF077B3E4336BA6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79785536480605, 1.3351950686448997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 643,
+				"LAMPPOST_NUMBER" : "18",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "47EA063C313316A6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81590393590885, 1.3047357040096064 ]
+			},
+			"properties" : {
+				"OBJECTID" : 644,
+				"LAMPPOST_NUMBER" : "3/1",
+				"STREET_NAME" : "<Null>",
+				"INC_CRC" : "A4E6B5C8217DF5F7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81561167702529, 1.2692392992135195 ]
+			},
+			"properties" : {
+				"OBJECTID" : 645,
+				"LAMPPOST_NUMBER" : "4/2",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "0949EFD661CE7B7A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82431594812326, 1.4144866133812222 ]
+			},
+			"properties" : {
+				"OBJECTID" : 646,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "BC9C2A53E72BB698",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79792785011935, 1.3363543002223974 ]
+			},
+			"properties" : {
+				"OBJECTID" : 647,
+				"LAMPPOST_NUMBER" : "20",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "8E5A3EF8C039410E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82109853886384, 1.2665045286879497 ]
+			},
+			"properties" : {
+				"OBJECTID" : 648,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "E484DDAFA41D36CF",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80992837751768, 1.3059497801783266 ]
+			},
+			"properties" : {
+				"OBJECTID" : 649,
+				"LAMPPOST_NUMBER" : "1/28",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "A4F02D9DC1F99142",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8260393975661, 1.4137784500586872 ]
+			},
+			"properties" : {
+				"OBJECTID" : 650,
+				"LAMPPOST_NUMBER" : "23",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "C5823966B95B4432",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82659055568848, 1.4141218893680214 ]
+			},
+			"properties" : {
+				"OBJECTID" : 651,
+				"LAMPPOST_NUMBER" : "26",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "B251DF5E390A3AC7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79368319614777, 1.3357732885073603 ]
+			},
+			"properties" : {
+				"OBJECTID" : 652,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "1B97CE413546B96B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81051999575786, 1.2980988770795536 ]
+			},
+			"properties" : {
+				"OBJECTID" : 653,
+				"LAMPPOST_NUMBER" : "KS11",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "44B0147A06005E50",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7988408274779, 1.3421801045477546 ]
+			},
+			"properties" : {
+				"OBJECTID" : 654,
+				"LAMPPOST_NUMBER" : "14",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "33466713C0E3C73A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82454323859646, 1.4154375312253258 ]
+			},
+			"properties" : {
+				"OBJECTID" : 655,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "892D4A20CF2D7029",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82108232292863, 1.2663354458135723 ]
+			},
+			"properties" : {
+				"OBJECTID" : 656,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "7B99BC9C0A29501B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81590444294058, 1.2690897373353025 ]
+			},
+			"properties" : {
+				"OBJECTID" : 657,
+				"LAMPPOST_NUMBER" : "4/4",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "38D830D39A5E2D0B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81739013638858, 1.2693129777204728 ]
+			},
+			"properties" : {
+				"OBJECTID" : 658,
+				"LAMPPOST_NUMBER" : "4/8",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "D81F4B9E3723B63F",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79782953765955, 1.3340608859142478 ]
+			},
+			"properties" : {
+				"OBJECTID" : 659,
+				"LAMPPOST_NUMBER" : "16",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "F1074DCCF4768AC8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82647533043004, 1.3073333622373295 ]
+			},
+			"properties" : {
+				"OBJECTID" : 660,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "244F2842FEB32715",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81022024502512, 1.2674507761092373 ]
+			},
+			"properties" : {
+				"OBJECTID" : 661,
+				"LAMPPOST_NUMBER" : "L1-4",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "959E24CCBA0678C8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82175470897363, 1.2673164941490906 ]
+			},
+			"properties" : {
+				"OBJECTID" : 662,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "B29206F20249F0FE",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81309481513294, 1.3317542756626704 ]
+			},
+			"properties" : {
+				"OBJECTID" : 663,
+				"LAMPPOST_NUMBER" : "15",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "85EA32D6B3C55CBF",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81883922045336, 1.267717852849934 ]
+			},
+			"properties" : {
+				"OBJECTID" : 664,
+				"LAMPPOST_NUMBER" : "S1",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "97F91B69F273D1F2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82602086428473, 1.3075179435993574 ]
+			},
+			"properties" : {
+				"OBJECTID" : 665,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "52F0D9AAED12535A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82443201156916, 1.4149270897107475 ]
+			},
+			"properties" : {
+				"OBJECTID" : 666,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "229C974DB9F8A3D8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80155518973562, 1.3365101097247825 ]
+			},
+			"properties" : {
+				"OBJECTID" : 667,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "069FA5949DD34058",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82706172714353, 1.307312326447476 ]
+			},
+			"properties" : {
+				"OBJECTID" : 668,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "C1CE21C29F59EB94",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80979942640563, 1.3055339312842758 ]
+			},
+			"properties" : {
+				"OBJECTID" : 669,
+				"LAMPPOST_NUMBER" : "1/27",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "B5F7DE77227C0BD9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82048213655816, 1.2693133513629387 ]
+			},
+			"properties" : {
+				"OBJECTID" : 670,
+				"LAMPPOST_NUMBER" : "S10",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "77216DE9FC414994",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8193389639748, 1.2682691384349793 ]
+			},
+			"properties" : {
+				"OBJECTID" : 671,
+				"LAMPPOST_NUMBER" : "S2",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "F01B5340164466AE",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81212081070397, 1.3319565421090267 ]
+			},
+			"properties" : {
+				"OBJECTID" : 672,
+				"LAMPPOST_NUMBER" : "11",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "0435268191C11E5C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81182995395625, 1.297761651918431 ]
+			},
+			"properties" : {
+				"OBJECTID" : 673,
+				"LAMPPOST_NUMBER" : "KS6",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "82D10EB4A2D51EEA",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79366243399743, 1.3342644838015745 ]
+			},
+			"properties" : {
+				"OBJECTID" : 674,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "891321A71BF38416",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8009442644752, 1.3363193133644375 ]
+			},
+			"properties" : {
+				"OBJECTID" : 675,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "E50AEBDA1723E782",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83800184545395, 1.3377231644504266 ]
+			},
+			"properties" : {
+				"OBJECTID" : 676,
+				"LAMPPOST_NUMBER" : "TR/LP1",
+				"STREET_NAME" : "Toa Payoh Rise",
+				"INC_CRC" : "2CD79495E4C02D1E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72802490979129, 1.3229925632405604 ]
+			},
+			"properties" : {
+				"OBJECTID" : 677,
+				"LAMPPOST_NUMBER" : "L8",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "5A8C7EAD398D2CFD",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81550625015878, 1.325475264193527 ]
+			},
+			"properties" : {
+				"OBJECTID" : 678,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "552A60B402827502",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72810945462182, 1.322947480731972 ]
+			},
+			"properties" : {
+				"OBJECTID" : 679,
+				"LAMPPOST_NUMBER" : "L7",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "703C3EBC151F96B9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81459846830589, 1.3005629755760193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 680,
+				"LAMPPOST_NUMBER" : "53",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "16168D0F39868B0B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79815790804737, 1.3431477645817316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 681,
+				"LAMPPOST_NUMBER" : "18",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "35BA3F40C69B28AA",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79557918550663, 1.3336247695187138 ]
+			},
+			"properties" : {
+				"OBJECTID" : 682,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "C4AE5AC86C9DF1FB",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79413915111314, 1.3340789186408941 ]
+			},
+			"properties" : {
+				"OBJECTID" : 683,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "02785C6792F3D34C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80968014726504, 1.2672537733834237 ]
+			},
+			"properties" : {
+				"OBJECTID" : 684,
+				"LAMPPOST_NUMBER" : "L1-5",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "0BBC845B8640A66E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81384233020749, 1.299946511391945 ]
+			},
+			"properties" : {
+				"OBJECTID" : 685,
+				"LAMPPOST_NUMBER" : "59",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "CBEA4399F79AC526",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81439968209371, 1.2716884302664138 ]
+			},
+			"properties" : {
+				"OBJECTID" : 686,
+				"LAMPPOST_NUMBER" : "P3",
+				"STREET_NAME" : "Pender Road",
+				"INC_CRC" : "8F8C6A70B24E2A46",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80999668091674, 1.2997600266023557 ]
+			},
+			"properties" : {
+				"OBJECTID" : 687,
+				"LAMPPOST_NUMBER" : "KS20",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "3C9300EE8E283BC3",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81611391861816, 1.3253875288778023 ]
+			},
+			"properties" : {
+				"OBJECTID" : 688,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "31811AD417F896FD",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72817533355678, 1.3229090273101747 ]
+			},
+			"properties" : {
+				"OBJECTID" : 689,
+				"LAMPPOST_NUMBER" : "L6",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "169663720444AFC3",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81025700251851, 1.298309690238809 ]
+			},
+			"properties" : {
+				"OBJECTID" : 690,
+				"LAMPPOST_NUMBER" : "KS13",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "EEABB84ECA4DEBBC",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7995520840685, 1.3409629902593483 ]
+			},
+			"properties" : {
+				"OBJECTID" : 691,
+				"LAMPPOST_NUMBER" : "10",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "07035F5B1606B89F",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79911938459793, 1.341926886471755 ]
+			},
+			"properties" : {
+				"OBJECTID" : 692,
+				"LAMPPOST_NUMBER" : "13",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "740D5FD24A587406",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81762967010461, 1.26935316013173 ]
+			},
+			"properties" : {
+				"OBJECTID" : 693,
+				"LAMPPOST_NUMBER" : "L1",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "6E110247469B3B05",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82439756003153, 1.4134377450664657 ]
+			},
+			"properties" : {
+				"OBJECTID" : 694,
+				"LAMPPOST_NUMBER" : "14",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "C716EE296C289C57",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82505054430712, 1.306668762874064 ]
+			},
+			"properties" : {
+				"OBJECTID" : 695,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Seton Close",
+				"INC_CRC" : "87277C4ECF516902",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80878493651066, 1.2664929589398162 ]
+			},
+			"properties" : {
+				"OBJECTID" : 696,
+				"LAMPPOST_NUMBER" : "L1-8",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "97311AA08B3931D8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81983000561347, 1.2687801742085816 ]
+			},
+			"properties" : {
+				"OBJECTID" : 697,
+				"LAMPPOST_NUMBER" : "S5",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "D7DC1C15D9F92A53",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80371376498353, 1.3030156586614239 ]
+			},
+			"properties" : {
+				"OBJECTID" : 698,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Ridout Road",
+				"INC_CRC" : "E9FED968BF6B2B8A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80214274851893, 1.3364533919513657 ]
+			},
+			"properties" : {
+				"OBJECTID" : 699,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "803AED2B3D9DF54F",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82447493259902, 1.4146898164335564 ]
+			},
+			"properties" : {
+				"OBJECTID" : 700,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "C7E791148D217704",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81533629814987, 1.3041993990444167 ]
+			},
+			"properties" : {
+				"OBJECTID" : 701,
+				"LAMPPOST_NUMBER" : "3/5",
+				"STREET_NAME" : null,
+				"INC_CRC" : "A51DFBFEB6D77445",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79862516976225, 1.3424152362025326 ]
+			},
+			"properties" : {
+				"OBJECTID" : 702,
+				"LAMPPOST_NUMBER" : "15",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "48BBD9F3F02CDA65",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81428068363267, 1.2999369646667742 ]
+			},
+			"properties" : {
+				"OBJECTID" : 703,
+				"LAMPPOST_NUMBER" : "57",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "EDDB85FFA4838900",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80125048111137, 1.3364048431491096 ]
+			},
+			"properties" : {
+				"OBJECTID" : 704,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "6CDD59D80E4893C4",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81284675027112, 1.3318050003103676 ]
+			},
+			"properties" : {
+				"OBJECTID" : 705,
+				"LAMPPOST_NUMBER" : "14",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "736B9045F97573F9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79958069786387, 1.3406302352212214 ]
+			},
+			"properties" : {
+				"OBJECTID" : 706,
+				"LAMPPOST_NUMBER" : "9",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "56D16D9C9EEAD9A8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7979926689715, 1.3359433426194816 ]
+			},
+			"properties" : {
+				"OBJECTID" : 707,
+				"LAMPPOST_NUMBER" : "19",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "69190C3D1D4A1FF0",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82748201965421, 1.414862303601663 ]
+			},
+			"properties" : {
+				"OBJECTID" : 708,
+				"LAMPPOST_NUMBER" : "32",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "A8969F5B84E31A71",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79403540983978, 1.334995540875994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 709,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "C9C364EF42180FE6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79799574193319, 1.3331175648233293 ]
+			},
+			"properties" : {
+				"OBJECTID" : 710,
+				"LAMPPOST_NUMBER" : "14",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "3990766A9118DD84",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82489930113681, 1.4132278513183598 ]
+			},
+			"properties" : {
+				"OBJECTID" : 711,
+				"LAMPPOST_NUMBER" : "16",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "839DCFEA1FA4487E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80204844543226, 1.337473169222205 ]
+			},
+			"properties" : {
+				"OBJECTID" : 712,
+				"LAMPPOST_NUMBER" : "15",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "A7620A722BC4C9CB",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81629847905938, 1.3253673338923833 ]
+			},
+			"properties" : {
+				"OBJECTID" : 713,
+				"LAMPPOST_NUMBER" : "9",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "EE55F7F17D2A3901",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81131719207576, 1.2979197403859306 ]
+			},
+			"properties" : {
+				"OBJECTID" : 714,
+				"LAMPPOST_NUMBER" : "KS8",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "33EE596E9534F6DA",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82519286556983, 1.306561541857936 ]
+			},
+			"properties" : {
+				"OBJECTID" : 715,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Seton Close",
+				"INC_CRC" : "DAA443353491AB6E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80959469580043, 1.298841320304037 ]
+			},
+			"properties" : {
+				"OBJECTID" : 716,
+				"LAMPPOST_NUMBER" : "KS15",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "38DE179ACC2C4602",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72794409827229, 1.3230416241988339 ]
+			},
+			"properties" : {
+				"OBJECTID" : 717,
+				"LAMPPOST_NUMBER" : "L9",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "A93935B89F5683FE",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79850835349613, 1.342659412898666 ]
+			},
+			"properties" : {
+				"OBJECTID" : 718,
+				"LAMPPOST_NUMBER" : "16",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "57D856168770E742",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82716816094461, 1.4142190820723475 ]
+			},
+			"properties" : {
+				"OBJECTID" : 719,
+				"LAMPPOST_NUMBER" : "29",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "50A4A38BE3AC0A5C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82485818428914, 1.416010638675871 ]
+			},
+			"properties" : {
+				"OBJECTID" : 720,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "282ACDC6AA771405",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82103255686665, 1.2693602743214567 ]
+			},
+			"properties" : {
+				"OBJECTID" : 721,
+				"LAMPPOST_NUMBER" : "S13",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "D018F997DA4B0146",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80122935125304, 1.3373248798973996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 722,
+				"LAMPPOST_NUMBER" : "12",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "C695C70E6DA9775A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83128803649988, 1.3132339798843065 ]
+			},
+			"properties" : {
+				"OBJECTID" : 723,
+				"LAMPPOST_NUMBER" : null,
+				"STREET_NAME" : "Stevens Road",
+				"INC_CRC" : "4BDC65DA5F1D72FC",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81018335180634, 1.2980821948018102 ]
+			},
+			"properties" : {
+				"OBJECTID" : 724,
+				"LAMPPOST_NUMBER" : "KS12",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "1F05292BC09C91E8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8090196302514, 1.2668300089420936 ]
+			},
+			"properties" : {
+				"OBJECTID" : 725,
+				"LAMPPOST_NUMBER" : "L1-7",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "B6710601A08D59A1",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79772688420591, 1.3345331606823378 ]
+			},
+			"properties" : {
+				"OBJECTID" : 726,
+				"LAMPPOST_NUMBER" : "17",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "C648B6F59AE63E84",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80033283178388, 1.3363861060505124 ]
+			},
+			"properties" : {
+				"OBJECTID" : 727,
+				"LAMPPOST_NUMBER" : "9",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "59DA3FCF80C27364",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80342015708945, 1.302475121839769 ]
+			},
+			"properties" : {
+				"OBJECTID" : 728,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Ridout Road",
+				"INC_CRC" : "45C6BF6B0A262D4A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72823725967737, 1.3228725633168086 ]
+			},
+			"properties" : {
+				"OBJECTID" : 729,
+				"LAMPPOST_NUMBER" : "L5",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "C6A2DB699554FC87",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8137261385301, 1.3310185088149311 ]
+			},
+			"properties" : {
+				"OBJECTID" : 730,
+				"LAMPPOST_NUMBER" : "19",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "057A5A7D203B025D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83915022288684, 1.337278686713627 ]
+			},
+			"properties" : {
+				"OBJECTID" : 731,
+				"LAMPPOST_NUMBER" : "TR/LP7",
+				"STREET_NAME" : "Toa Payoh Rise",
+				"INC_CRC" : "42A4F09DC82A5E32",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81565349602337, 1.3253753365876753 ]
+			},
+			"properties" : {
+				"OBJECTID" : 732,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "A90BD123CC3E90A2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79935301391923, 1.3416555804475605 ]
+			},
+			"properties" : {
+				"OBJECTID" : 733,
+				"LAMPPOST_NUMBER" : "12",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "A1ECD5502718CA1C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80886710297912, 1.3048990266690994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 734,
+				"LAMPPOST_NUMBER" : "1/20",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "1BFBC708FF94A2FD",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81454542603701, 1.2713489571512888 ]
+			},
+			"properties" : {
+				"OBJECTID" : 735,
+				"LAMPPOST_NUMBER" : "P2",
+				"STREET_NAME" : "Pender Road",
+				"INC_CRC" : "8E5209E88AA220F2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80364134009375, 1.302886793074413 ]
+			},
+			"properties" : {
+				"OBJECTID" : 736,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Ridout Road",
+				"INC_CRC" : "A5AE33D98FADFF16",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8097055527714, 1.304928871534525 ]
+			},
+			"properties" : {
+				"OBJECTID" : 737,
+				"LAMPPOST_NUMBER" : "1/24",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "6BD62BE0A0A45FEC",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81707436476626, 1.2692694341854855 ]
+			},
+			"properties" : {
+				"OBJECTID" : 738,
+				"LAMPPOST_NUMBER" : "4/7",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "5A1B9F8FFBD83B85",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81665301546386, 1.2692133427689742 ]
+			},
+			"properties" : {
+				"OBJECTID" : 739,
+				"LAMPPOST_NUMBER" : "4/6",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "1D5063B890C06664",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8095295358783, 1.299723353842842 ]
+			},
+			"properties" : {
+				"OBJECTID" : 740,
+				"LAMPPOST_NUMBER" : "KS18",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "CBC74E85A1A5C404",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82412130106252, 1.4134687718027465 ]
+			},
+			"properties" : {
+				"OBJECTID" : 741,
+				"LAMPPOST_NUMBER" : "13",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "3DD768E49F992883",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82730572620324, 1.4147023754290666 ]
+			},
+			"properties" : {
+				"OBJECTID" : 742,
+				"LAMPPOST_NUMBER" : "31",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "123BB2AD55FE42EC",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82145040560785, 1.2670516711719504 ]
+			},
+			"properties" : {
+				"OBJECTID" : 743,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "DAD0D41E892A8553",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81374710777067, 1.330494846651893 ]
+			},
+			"properties" : {
+				"OBJECTID" : 744,
+				"LAMPPOST_NUMBER" : "21",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "91A1EA2333A83C5C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80095581796485, 1.3371553423254023 ]
+			},
+			"properties" : {
+				"OBJECTID" : 745,
+				"LAMPPOST_NUMBER" : "11",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "EE8C5EEC00B58F28",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72770956870549, 1.3231781992157736 ]
+			},
+			"properties" : {
+				"OBJECTID" : 746,
+				"LAMPPOST_NUMBER" : "L12",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "F9D70CF79DAEA646",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79390673599659, 1.3341762787691034 ]
+			},
+			"properties" : {
+				"OBJECTID" : 747,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "7A73E8C95C390381",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8157092597797, 1.3044354580773936 ]
+			},
+			"properties" : {
+				"OBJECTID" : 748,
+				"LAMPPOST_NUMBER" : "3/3",
+				"STREET_NAME" : null,
+				"INC_CRC" : "6A9879F3C30BCF8A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82418235335088, 1.4140297101084647 ]
+			},
+			"properties" : {
+				"OBJECTID" : 749,
+				"LAMPPOST_NUMBER" : "10",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "551AC81E1E4E0965",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81232840932249, 1.331880551957363 ]
+			},
+			"properties" : {
+				"OBJECTID" : 750,
+				"LAMPPOST_NUMBER" : "12",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "57756EDAA93F4F49",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80940133845188, 1.2994621829430673 ]
+			},
+			"properties" : {
+				"OBJECTID" : 751,
+				"LAMPPOST_NUMBER" : "KS17",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "6C79A7C7328F9BC2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82714458550726, 1.4139192962150164 ]
+			},
+			"properties" : {
+				"OBJECTID" : 752,
+				"LAMPPOST_NUMBER" : "28",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "2503851EBCEAC7C9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82632850164376, 1.4141155010646649 ]
+			},
+			"properties" : {
+				"OBJECTID" : 753,
+				"LAMPPOST_NUMBER" : "25",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "2B0B71CF71305C36",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82086717586493, 1.269438508331795 ]
+			},
+			"properties" : {
+				"OBJECTID" : 754,
+				"LAMPPOST_NUMBER" : "S12",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "2B92743B1FC92990",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83117418143597, 1.3130352999054162 ]
+			},
+			"properties" : {
+				"OBJECTID" : 755,
+				"LAMPPOST_NUMBER" : null,
+				"STREET_NAME" : "Stevens Road",
+				"INC_CRC" : "1FD9E79A8964926C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81999078244885, 1.269240963484481 ]
+			},
+			"properties" : {
+				"OBJECTID" : 756,
+				"LAMPPOST_NUMBER" : "S6",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "C6FC030DD5E6D7DB",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81256863555309, 1.2973057976974895 ]
+			},
+			"properties" : {
+				"OBJECTID" : 757,
+				"LAMPPOST_NUMBER" : "KS3",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "BF4663D8CA6C04E1",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81515314210516, 1.3040643344652425 ]
+			},
+			"properties" : {
+				"OBJECTID" : 758,
+				"LAMPPOST_NUMBER" : "3/6",
+				"STREET_NAME" : null,
+				"INC_CRC" : "7EDB4CD6C0036D86",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80331066803097, 1.3023535413621237 ]
+			},
+			"properties" : {
+				"OBJECTID" : 759,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Ridout Road",
+				"INC_CRC" : "380E6FA948C7A5C6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81541150977618, 1.2693525876260376 ]
+			},
+			"properties" : {
+				"OBJECTID" : 760,
+				"LAMPPOST_NUMBER" : "4/1",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "9D144A9EA1914488",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82467320593526, 1.4158901758092273 ]
+			},
+			"properties" : {
+				"OBJECTID" : 761,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "34C5CC7F52AC530E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79696279054225, 1.345327264931719 ]
+			},
+			"properties" : {
+				"OBJECTID" : 762,
+				"LAMPPOST_NUMBER" : "22",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "080344A70E17DC5D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7994159469515, 1.3391957102990149 ]
+			},
+			"properties" : {
+				"OBJECTID" : 763,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "DDEAA75CBE7BA060",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82243639643407, 1.266963243105098 ]
+			},
+			"properties" : {
+				"OBJECTID" : 764,
+				"LAMPPOST_NUMBER" : "10",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "5D33BF0B2781FEE2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79778050747286, 1.3435095048107109 ]
+			},
+			"properties" : {
+				"OBJECTID" : 765,
+				"LAMPPOST_NUMBER" : "19",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "86108F9932666031",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79792974822952, 1.3335652423279183 ]
+			},
+			"properties" : {
+				"OBJECTID" : 766,
+				"LAMPPOST_NUMBER" : "15",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "7C81ADD31D88ED70",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72856599637949, 1.3226849382376291 ]
+			},
+			"properties" : {
+				"OBJECTID" : 767,
+				"LAMPPOST_NUMBER" : "L1",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "918DEB47854F5099",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80317492172075, 1.3023042292482092 ]
+			},
+			"properties" : {
+				"OBJECTID" : 768,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Ridout Road",
+				"INC_CRC" : "E326576640124B4F",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82407112595654, 1.4136482471474006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 769,
+				"LAMPPOST_NUMBER" : "12",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "E36EB9A0703DCCB7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.826599799082, 1.307318216275606 ]
+			},
+			"properties" : {
+				"OBJECTID" : 770,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "E688F5A209216DA7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80227902754996, 1.3366569733510032 ]
+			},
+			"properties" : {
+				"OBJECTID" : 771,
+				"LAMPPOST_NUMBER" : "18",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "61A3B5620824FA98",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79271970128414, 1.3349697639699931 ]
+			},
+			"properties" : {
+				"OBJECTID" : 772,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "EBF8D5599D26714B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79738513557535, 1.343871244710896 ]
+			},
+			"properties" : {
+				"OBJECTID" : 773,
+				"LAMPPOST_NUMBER" : "20",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "B542444CA57F98C3",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83139846810283, 1.3134382036106673 ]
+			},
+			"properties" : {
+				"OBJECTID" : 774,
+				"LAMPPOST_NUMBER" : null,
+				"STREET_NAME" : "Stevens Road",
+				"INC_CRC" : "DD6DF3D5C4900D29",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81385305676321, 1.3300020845856972 ]
+			},
+			"properties" : {
+				"OBJECTID" : 775,
+				"LAMPPOST_NUMBER" : "23",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "51E817F4FC1CE41B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79936203964095, 1.3387435273685149 ]
+			},
+			"properties" : {
+				"OBJECTID" : 776,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "B14C18F557282DD4",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82689199064083, 1.3072975984352093 ]
+			},
+			"properties" : {
+				"OBJECTID" : 777,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "7CD5EFB45A31D94C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79328329040987, 1.3345502214780216 ]
+			},
+			"properties" : {
+				"OBJECTID" : 778,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "AA86C9F654712815",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8156525322304, 1.3255785997537908 ]
+			},
+			"properties" : {
+				"OBJECTID" : 779,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "607EF23FDD5019B9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80350967851585, 1.3026101038549391 ]
+			},
+			"properties" : {
+				"OBJECTID" : 780,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Ridout Road",
+				"INC_CRC" : "9FAA6704D8102A64",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80069284450292, 1.3369908656878149 ]
+			},
+			"properties" : {
+				"OBJECTID" : 781,
+				"LAMPPOST_NUMBER" : "10",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "7FC1DCEFD7217BA0",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79504004831857, 1.3338237212955057 ]
+			},
+			"properties" : {
+				"OBJECTID" : 782,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "358D0F7B340F31B0",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81648794187474, 1.3253669417978347 ]
+			},
+			"properties" : {
+				"OBJECTID" : 783,
+				"LAMPPOST_NUMBER" : "10",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "6CC793EF4D35D7AB",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82073389462234, 1.2690362913482622 ]
+			},
+			"properties" : {
+				"OBJECTID" : 784,
+				"LAMPPOST_NUMBER" : "S9",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "7B991702F45252C8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82550861674586, 1.3060300088168788 ]
+			},
+			"properties" : {
+				"OBJECTID" : 785,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Seton Close",
+				"INC_CRC" : "B044F915F78827CA",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82622267637076, 1.4139730507592714 ]
+			},
+			"properties" : {
+				"OBJECTID" : 786,
+				"LAMPPOST_NUMBER" : "24",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "B1E503802C82AD83",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81568027170167, 1.3258030315872196 ]
+			},
+			"properties" : {
+				"OBJECTID" : 787,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "1E7FE2BA2BFF640B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82127017811486, 1.266780586015395 ]
+			},
+			"properties" : {
+				"OBJECTID" : 788,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "CC4C3C644549B1D7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8101965664789, 1.2995882000585541 ]
+			},
+			"properties" : {
+				"OBJECTID" : 789,
+				"LAMPPOST_NUMBER" : "KS21",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "08E2C89B2C4E123C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82582903110041, 1.4132381968342242 ]
+			},
+			"properties" : {
+				"OBJECTID" : 790,
+				"LAMPPOST_NUMBER" : "21",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "58FEE867558B6A88",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80147070385961, 1.3374751857104668 ]
+			},
+			"properties" : {
+				"OBJECTID" : 791,
+				"LAMPPOST_NUMBER" : "13",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "ABB92AC62E627A8B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81463254164838, 1.3003716167708208 ]
+			},
+			"properties" : {
+				"OBJECTID" : 792,
+				"LAMPPOST_NUMBER" : "54",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "2755153E35B93424",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82561201473479, 1.4128360489849547 ]
+			},
+			"properties" : {
+				"OBJECTID" : 793,
+				"LAMPPOST_NUMBER" : "19",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "C2F4A9DFE239BA40",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81006183926604, 1.2985411895333454 ]
+			},
+			"properties" : {
+				"OBJECTID" : 794,
+				"LAMPPOST_NUMBER" : "KS14",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "1918BFB1B75577A4",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80222896129831, 1.3372596094963223 ]
+			},
+			"properties" : {
+				"OBJECTID" : 795,
+				"LAMPPOST_NUMBER" : "16",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "86E76E13F6E03375",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79950280824521, 1.3413348949410864 ]
+			},
+			"properties" : {
+				"OBJECTID" : 796,
+				"LAMPPOST_NUMBER" : "11",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "6EEC235B3C0814B4",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81516185948247, 1.3254839743230151 ]
+			},
+			"properties" : {
+				"OBJECTID" : 797,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "3088AFA468AFFBAF",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81970616576446, 1.2686633621543826 ]
+			},
+			"properties" : {
+				"OBJECTID" : 798,
+				"LAMPPOST_NUMBER" : "S4",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "979F102F7681A8ED",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79781173774865, 1.332646567376763 ]
+			},
+			"properties" : {
+				"OBJECTID" : 799,
+				"LAMPPOST_NUMBER" : "13",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "35925AAACE7E23BC",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80976990322272, 1.305300866278213 ]
+			},
+			"properties" : {
+				"OBJECTID" : 800,
+				"LAMPPOST_NUMBER" : "1/26",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "76861667857521C2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82462485564447, 1.4132327175860235 ]
+			},
+			"properties" : {
+				"OBJECTID" : 801,
+				"LAMPPOST_NUMBER" : "15",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "BD43D4D8708BEB56",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79956374677768, 1.3402193216695621 ]
+			},
+			"properties" : {
+				"OBJECTID" : 802,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "3989B5CBACE7C444",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81463228642359, 1.3001325660338816 ]
+			},
+			"properties" : {
+				"OBJECTID" : 803,
+				"LAMPPOST_NUMBER" : "55",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "A9EBFFBE59E5DAE2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.825336049737, 1.3063559304735581 ]
+			},
+			"properties" : {
+				"OBJECTID" : 804,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Seton Close",
+				"INC_CRC" : "3A044D1001834E35",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7984634239497, 1.3427679359728952 ]
+			},
+			"properties" : {
+				"OBJECTID" : 805,
+				"LAMPPOST_NUMBER" : "17",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "049C4550FA2E75D7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79803211673459, 1.342650362382418 ]
+			},
+			"properties" : {
+				"OBJECTID" : 806,
+				"LAMPPOST_NUMBER" : "24",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "F7CE340253F47D72",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.77520865407068, 1.3065985226792152 ]
+			},
+			"properties" : {
+				"OBJECTID" : 807,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "St. Margaret's Road",
+				"INC_CRC" : "B515AEE583641E81",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79953571429637, 1.3399008041556586 ]
+			},
+			"properties" : {
+				"OBJECTID" : 808,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "0BC318028C4C2307",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8139937425598, 1.329792945070136 ]
+			},
+			"properties" : {
+				"OBJECTID" : 809,
+				"LAMPPOST_NUMBER" : "24",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "002A944443C4EB75",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81206894194614, 1.2974982387244407 ]
+			},
+			"properties" : {
+				"OBJECTID" : 810,
+				"LAMPPOST_NUMBER" : "KS5",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "A029645E2E475A62",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79288016699155, 1.3348326686180918 ]
+			},
+			"properties" : {
+				"OBJECTID" : 811,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "576A7D1C4849DCCF",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81354067013149, 1.3314866380529757 ]
+			},
+			"properties" : {
+				"OBJECTID" : 812,
+				"LAMPPOST_NUMBER" : "17",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "84B162E84895B5E5",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8157740986709, 1.3045978589251048 ]
+			},
+			"properties" : {
+				"OBJECTID" : 813,
+				"LAMPPOST_NUMBER" : "3/2",
+				"STREET_NAME" : "<Null>",
+				"INC_CRC" : "209C37AABE271D44",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7284197445309, 1.3227704630661081 ]
+			},
+			"properties" : {
+				"OBJECTID" : 814,
+				"LAMPPOST_NUMBER" : "L3",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "B2BDC1D7031F8D9D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82688706666734, 1.413907432063687 ]
+			},
+			"properties" : {
+				"OBJECTID" : 815,
+				"LAMPPOST_NUMBER" : "27",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "3AEA2FDE0923400D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82156156018262, 1.2673189929378605 ]
+			},
+			"properties" : {
+				"OBJECTID" : 816,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "6B139593DB8D9EFE",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82064039420253, 1.269558796809843 ]
+			},
+			"properties" : {
+				"OBJECTID" : 817,
+				"LAMPPOST_NUMBER" : "S11",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "461F5DB9768BAB63",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81455117701984, 1.3008000336408878 ]
+			},
+			"properties" : {
+				"OBJECTID" : 818,
+				"LAMPPOST_NUMBER" : "52",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "5C507291CDD47DB9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81363433773178, 1.29994499133933 ]
+			},
+			"properties" : {
+				"OBJECTID" : 819,
+				"LAMPPOST_NUMBER" : "60",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "AD67BBD5D2C32F6C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81333434764068, 1.3316605809443731 ]
+			},
+			"properties" : {
+				"OBJECTID" : 820,
+				"LAMPPOST_NUMBER" : "16",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "5066A3CD35D0CCC7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79348579337132, 1.3344060275124534 ]
+			},
+			"properties" : {
+				"OBJECTID" : 821,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "0F4D2D75BE094EF8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79704672432213, 1.344895842821973 ]
+			},
+			"properties" : {
+				"OBJECTID" : 822,
+				"LAMPPOST_NUMBER" : "21",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "2E4E5B6816318540",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81153011322353, 1.2978830711558 ]
+			},
+			"properties" : {
+				"OBJECTID" : 823,
+				"LAMPPOST_NUMBER" : "KS7",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "4E112F75AE564849",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72830775098564, 1.3228314575907059 ]
+			},
+			"properties" : {
+				"OBJECTID" : 824,
+				"LAMPPOST_NUMBER" : "L4",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "ED944D8AE9227DEB",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80873035143605, 1.3050766633510573 ]
+			},
+			"properties" : {
+				"OBJECTID" : 825,
+				"LAMPPOST_NUMBER" : "1/19",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "E1126312DBF30204",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83799775943704, 1.337579522431988 ]
+			},
+			"properties" : {
+				"OBJECTID" : 826,
+				"LAMPPOST_NUMBER" : "TR/LP2",
+				"STREET_NAME" : "Toa Payoh Rise",
+				"INC_CRC" : "9FAEB62861983D63",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72779191759908, 1.323130464128078 ]
+			},
+			"properties" : {
+				"OBJECTID" : 827,
+				"LAMPPOST_NUMBER" : "L11",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "4FBDD9A85A3B9A01",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82421137057625, 1.4137863531230033 ]
+			},
+			"properties" : {
+				"OBJECTID" : 828,
+				"LAMPPOST_NUMBER" : "11",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "18AF21794F6131A6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81624894514498, 1.269134117742289 ]
+			},
+			"properties" : {
+				"OBJECTID" : 829,
+				"LAMPPOST_NUMBER" : "4/5",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "033940BE5853614D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8262286456988, 1.30739276384087 ]
+			},
+			"properties" : {
+				"OBJECTID" : 830,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "53BB208B9FBDEA41",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82088455731052, 1.2661990141670953 ]
+			},
+			"properties" : {
+				"OBJECTID" : 831,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "34C28FFFD32CA067",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81579909130127, 1.2691349403979018 ]
+			},
+			"properties" : {
+				"OBJECTID" : 832,
+				"LAMPPOST_NUMBER" : "4/3",
+				"STREET_NAME" : "Keppel Hill",
+				"INC_CRC" : "484194A7C1FC16D0",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80852014761176, 1.2655624462528903 ]
+			},
+			"properties" : {
+				"OBJECTID" : 833,
+				"LAMPPOST_NUMBER" : "L1-10",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "6E53B865A37C07A2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82434012919845, 1.414229263152985 ]
+			},
+			"properties" : {
+				"OBJECTID" : 834,
+				"LAMPPOST_NUMBER" : "9",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "90C241ED1C313D13",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81470366053203, 1.2711268327056535 ]
+			},
+			"properties" : {
+				"OBJECTID" : 835,
+				"LAMPPOST_NUMBER" : "P1",
+				"STREET_NAME" : "Pender Road",
+				"INC_CRC" : "D3F108AA9F3D4B3C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80942739828568, 1.299054373482329 ]
+			},
+			"properties" : {
+				"OBJECTID" : 836,
+				"LAMPPOST_NUMBER" : "KS16",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "A400325EE324A6C1",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81077922182294, 1.2675596666101743 ]
+			},
+			"properties" : {
+				"OBJECTID" : 837,
+				"LAMPPOST_NUMBER" : "L1-3",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "D28048CF636ABC06",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81496515003298, 1.3039390044192127 ]
+			},
+			"properties" : {
+				"OBJECTID" : 838,
+				"LAMPPOST_NUMBER" : "3/7",
+				"STREET_NAME" : null,
+				"INC_CRC" : "C1EF3737F25BB3B0",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82541491936513, 1.3061830451245915 ]
+			},
+			"properties" : {
+				"OBJECTID" : 839,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Seton Close",
+				"INC_CRC" : "077376A82864587C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8315593505737, 1.31368358771912 ]
+			},
+			"properties" : {
+				"OBJECTID" : 840,
+				"LAMPPOST_NUMBER" : null,
+				"STREET_NAME" : "Stevens Road",
+				"INC_CRC" : "15187B94B10BCDE0",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82737925138802, 1.3073182182573178 ]
+			},
+			"properties" : {
+				"OBJECTID" : 841,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "4BCFDB91D4F76F9F",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83824267885424, 1.3372425141278705 ]
+			},
+			"properties" : {
+				"OBJECTID" : 842,
+				"LAMPPOST_NUMBER" : "TR/LP4",
+				"STREET_NAME" : "Toa Payoh Rise",
+				"INC_CRC" : "1249B2D96BE2886E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.77488896804184, 1.3067980939428387 ]
+			},
+			"properties" : {
+				"OBJECTID" : 843,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "St. Margaret's Road",
+				"INC_CRC" : "7CFE8587121874DA",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80972326306478, 1.2998178690217002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 844,
+				"LAMPPOST_NUMBER" : "KS19",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "B236E924ED41705A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79760979306344, 1.3426774871388005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 845,
+				"LAMPPOST_NUMBER" : "25",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "D31BE1F993CA12B9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8140505267463, 1.2999357890432481 ]
+			},
+			"properties" : {
+				"OBJECTID" : 846,
+				"LAMPPOST_NUMBER" : "58",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "43A24643FE7A3B46",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8110648612525, 1.2680756093089582 ]
+			},
+			"properties" : {
+				"OBJECTID" : 847,
+				"LAMPPOST_NUMBER" : "L1-2",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "3F5C76D52EC006BC",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.77505826290745, 1.3066970071569275 ]
+			},
+			"properties" : {
+				"OBJECTID" : 848,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "St. Margaret's Road",
+				"INC_CRC" : "A5C372FD562ADEC8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82489163057107, 1.3067415022068845 ]
+			},
+			"properties" : {
+				"OBJECTID" : 849,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Seton Close",
+				"INC_CRC" : "CF15592FF5BF4B1A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80231120493892, 1.3369412733708506 ]
+			},
+			"properties" : {
+				"OBJECTID" : 850,
+				"LAMPPOST_NUMBER" : "17",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "9B32BCB5F5625A61",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83888964093732, 1.3372696436758393 ]
+			},
+			"properties" : {
+				"OBJECTID" : 851,
+				"LAMPPOST_NUMBER" : "TR/LP6",
+				"STREET_NAME" : "Toa Payoh Rise",
+				"INC_CRC" : "A9B8D6D683BA6E5D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79946985564544, 1.3395484131481339 ]
+			},
+			"properties" : {
+				"OBJECTID" : 852,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "550092D2D18A887F",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81588231788761, 1.3254197063468758 ]
+			},
+			"properties" : {
+				"OBJECTID" : 853,
+				"LAMPPOST_NUMBER" : "7",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "36134B7D983CB0FC",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81476506789619, 1.303833142528984 ]
+			},
+			"properties" : {
+				"OBJECTID" : 854,
+				"LAMPPOST_NUMBER" : "3/8",
+				"STREET_NAME" : null,
+				"INC_CRC" : "787084991E5AAD5C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8153547196047, 1.325502153467415 ]
+			},
+			"properties" : {
+				"OBJECTID" : 855,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Leyden Hill",
+				"INC_CRC" : "462088D844DB119B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8123383351987, 1.2974066098467576 ]
+			},
+			"properties" : {
+				"OBJECTID" : 856,
+				"LAMPPOST_NUMBER" : "KS4",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "A899A2BC1A82B01D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82040092153098, 1.2686115184971734 ]
+			},
+			"properties" : {
+				"OBJECTID" : 857,
+				"LAMPPOST_NUMBER" : "S8",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "DF09E7740C8C61FB",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81953520273134, 1.2684671502122502 ]
+			},
+			"properties" : {
+				"OBJECTID" : 858,
+				"LAMPPOST_NUMBER" : "S3",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "1DC3E57E1A781448",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81260342381735, 1.297056133621738 ]
+			},
+			"properties" : {
+				"OBJECTID" : 859,
+				"LAMPPOST_NUMBER" : "KS2",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "8FD94456974287A2",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79984727878401, 1.337459336680651 ]
+			},
+			"properties" : {
+				"OBJECTID" : 860,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "537E4578855C6F3D",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81375087606953, 1.3307537400194722 ]
+			},
+			"properties" : {
+				"OBJECTID" : 861,
+				"LAMPPOST_NUMBER" : "20",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "68F7D9A92B8C34DF",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80175027103321, 1.3375748855728316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 862,
+				"LAMPPOST_NUMBER" : "14",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "9114DF38DABB391A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80866167327362, 1.3052139117712325 ]
+			},
+			"properties" : {
+				"OBJECTID" : 863,
+				"LAMPPOST_NUMBER" : "1/18",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "84616A496747D0E4",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81103951012398, 1.2979587341460244 ]
+			},
+			"properties" : {
+				"OBJECTID" : 864,
+				"LAMPPOST_NUMBER" : "KS9",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "2B4833444CE1CFB7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79965856908863, 1.338372742095261 ]
+			},
+			"properties" : {
+				"OBJECTID" : 865,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "F3C11DCD70BA4DF3",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7278670195301, 1.3230860441224654 ]
+			},
+			"properties" : {
+				"OBJECTID" : 866,
+				"LAMPPOST_NUMBER" : "L10",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "27E1CF7CBBCE64FD",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83798209691149, 1.337233470993104 ]
+			},
+			"properties" : {
+				"OBJECTID" : 867,
+				"LAMPPOST_NUMBER" : "TR/LP3",
+				"STREET_NAME" : "Toa Payoh Rise",
+				"INC_CRC" : "70766FAE0F56621B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82019134816473, 1.2684706897163938 ]
+			},
+			"properties" : {
+				"OBJECTID" : 868,
+				"LAMPPOST_NUMBER" : "S7",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "AD198F74D55ABB33",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81077228703651, 1.2980183330155795 ]
+			},
+			"properties" : {
+				"OBJECTID" : 869,
+				"LAMPPOST_NUMBER" : "KS10",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "48592820688868D0",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81421512801634, 1.272104520881371 ]
+			},
+			"properties" : {
+				"OBJECTID" : 870,
+				"LAMPPOST_NUMBER" : "P5",
+				"STREET_NAME" : "Pender Road",
+				"INC_CRC" : "89963F6EF60DE4D8",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7933363684183, 1.3365921286703273 ]
+			},
+			"properties" : {
+				"OBJECTID" : 871,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "E370ACDA0CF23067",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80357144287389, 1.302753398457172 ]
+			},
+			"properties" : {
+				"OBJECTID" : 872,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Ridout Road",
+				"INC_CRC" : "5680848E3B890226",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82601944994771, 1.4134547853753232 ]
+			},
+			"properties" : {
+				"OBJECTID" : 873,
+				"LAMPPOST_NUMBER" : "22",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "EA0E8D94314F3052",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81447041038034, 1.2999529001027479 ]
+			},
+			"properties" : {
+				"OBJECTID" : 874,
+				"LAMPPOST_NUMBER" : "56",
+				"STREET_NAME" : "Ridley Park",
+				"INC_CRC" : "BE154AD68801F92E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81412499990148, 1.3295692913255541 ]
+			},
+			"properties" : {
+				"OBJECTID" : 875,
+				"LAMPPOST_NUMBER" : "25",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "4773E6438A28FCB4",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80183062312109, 1.3366346641691185 ]
+			},
+			"properties" : {
+				"OBJECTID" : 876,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "AC60CC3905C7C86A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81440221725276, 1.2720046252125035 ]
+			},
+			"properties" : {
+				"OBJECTID" : 877,
+				"LAMPPOST_NUMBER" : "P4",
+				"STREET_NAME" : "Pender Road",
+				"INC_CRC" : "356026012026B629",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81257341450527, 1.331843219166232 ]
+			},
+			"properties" : {
+				"OBJECTID" : 878,
+				"LAMPPOST_NUMBER" : "13",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "05C59E2FF14257E6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81260235350486, 1.2968533053964877 ]
+			},
+			"properties" : {
+				"OBJECTID" : 879,
+				"LAMPPOST_NUMBER" : "KS1",
+				"STREET_NAME" : "Kay Siang Road",
+				"INC_CRC" : "7C765507847601DA",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80202839789727, 1.3367480812446801 ]
+			},
+			"properties" : {
+				"OBJECTID" : 880,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "39219046EC05F58C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8113483438376, 1.2686478034579631 ]
+			},
+			"properties" : {
+				"OBJECTID" : 881,
+				"LAMPPOST_NUMBER" : "L1-1",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "DB8447A9FB45A8D9",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80917426673801, 1.2669492056989713 ]
+			},
+			"properties" : {
+				"OBJECTID" : 882,
+				"LAMPPOST_NUMBER" : "L1-6",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "02DF700187D56516",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80941256716983, 1.3046518853572509 ]
+			},
+			"properties" : {
+				"OBJECTID" : 883,
+				"LAMPPOST_NUMBER" : "1/22",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "C77255681A95FF6B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7969627859885, 1.3456347487891742 ]
+			},
+			"properties" : {
+				"OBJECTID" : 884,
+				"LAMPPOST_NUMBER" : "23",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "9A0DE5FE62DDB7C4",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82581875579069, 1.4129492109191515 ]
+			},
+			"properties" : {
+				"OBJECTID" : 885,
+				"LAMPPOST_NUMBER" : "20",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "F49FE25CB8C01B6E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83857514548737, 1.3372606007266552 ]
+			},
+			"properties" : {
+				"OBJECTID" : 886,
+				"LAMPPOST_NUMBER" : "TR/LP5",
+				"STREET_NAME" : "Toa Payoh Rise",
+				"INC_CRC" : "77466C6BA80E9806",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79979335816424, 1.3379838672754019 ]
+			},
+			"properties" : {
+				"OBJECTID" : 887,
+				"LAMPPOST_NUMBER" : "2",
+				"STREET_NAME" : "Fairways Drive",
+				"INC_CRC" : "631EEA92FDCE029C",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82203348937446, 1.267207678571727 ]
+			},
+			"properties" : {
+				"OBJECTID" : 888,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "478CE50C86B0A0AD",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72848694177115, 1.3227286952004371 ]
+			},
+			"properties" : {
+				"OBJECTID" : 889,
+				"LAMPPOST_NUMBER" : "L2",
+				"STREET_NAME" : "Jalan Papan",
+				"INC_CRC" : "64B1DF3DB1400BB6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82672161439883, 1.307273482199299 ]
+			},
+			"properties" : {
+				"OBJECTID" : 890,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Nassim Road",
+				"INC_CRC" : "6F5210B93BA9CE4B",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81366874852263, 1.3312618601870554 ]
+			},
+			"properties" : {
+				"OBJECTID" : 891,
+				"LAMPPOST_NUMBER" : "18",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "50B99CD56D6A8EA7",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82458374170353, 1.415152804153924 ]
+			},
+			"properties" : {
+				"OBJECTID" : 892,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "B28F8DAD75ABD206",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80905584119316, 1.3047757039144054 ]
+			},
+			"properties" : {
+				"OBJECTID" : 893,
+				"LAMPPOST_NUMBER" : "1/21",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "360A7489438BAA54",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80973488701697, 1.3050905179562358 ]
+			},
+			"properties" : {
+				"OBJECTID" : 894,
+				"LAMPPOST_NUMBER" : "1/25",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "FCCF89FE74A97751",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79423133423984, 1.334637636406479 ]
+			},
+			"properties" : {
+				"OBJECTID" : 895,
+				"LAMPPOST_NUMBER" : "4",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "D5E207A278AA9172",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80064206841442, 1.3363390452801271 ]
+			},
+			"properties" : {
+				"OBJECTID" : 896,
+				"LAMPPOST_NUMBER" : "8",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "D09854E1D938A747",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8246840879247, 1.4156230918614183 ]
+			},
+			"properties" : {
+				"OBJECTID" : 897,
+				"LAMPPOST_NUMBER" : "3",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "2219DC2B597FD65A",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81552247700593, 1.3043229040418869 ]
+			},
+			"properties" : {
+				"OBJECTID" : 898,
+				"LAMPPOST_NUMBER" : "3/4",
+				"STREET_NAME" : null,
+				"INC_CRC" : "199AF1B6366A661E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82232756440916, 1.2671416422078166 ]
+			},
+			"properties" : {
+				"OBJECTID" : 899,
+				"LAMPPOST_NUMBER" : "9",
+				"STREET_NAME" : "Marang Road",
+				"INC_CRC" : "A65251A8E52244F6",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80856626610392, 1.2659000099617914 ]
+			},
+			"properties" : {
+				"OBJECTID" : 900,
+				"LAMPPOST_NUMBER" : "L1-9",
+				"STREET_NAME" : "Bukit Chermin Road",
+				"INC_CRC" : "C685D9AA200A0B90",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82538290685515, 1.4130240410541521 ]
+			},
+			"properties" : {
+				"OBJECTID" : 901,
+				"LAMPPOST_NUMBER" : "18",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "3FA0E7F3AF42D77E",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81908536048604, 1.2680100880186098 ]
+			},
+			"properties" : {
+				"OBJECTID" : 902,
+				"LAMPPOST_NUMBER" : "S1-1",
+				"STREET_NAME" : "Seah Im Road",
+				"INC_CRC" : "7857422F7B9E4257",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8095978461013, 1.3047026093210703 ]
+			},
+			"properties" : {
+				"OBJECTID" : 903,
+				"LAMPPOST_NUMBER" : "1/23",
+				"STREET_NAME" : "Dempsey Road",
+				"INC_CRC" : "C0690D0945C31394",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82510785661717, 1.4130349910335736 ]
+			},
+			"properties" : {
+				"OBJECTID" : 904,
+				"LAMPPOST_NUMBER" : "17",
+				"STREET_NAME" : "Chencharu Link",
+				"INC_CRC" : "ACE9173A5AA1CC96",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80204233091932, 1.3361816020322315 ]
+			},
+			"properties" : {
+				"OBJECTID" : 905,
+				"LAMPPOST_NUMBER" : "1",
+				"STREET_NAME" : "Linden Drive",
+				"INC_CRC" : "A59541FB9FBAF464",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79452786733152, 1.3340498043089293 ]
+			},
+			"properties" : {
+				"OBJECTID" : 906,
+				"LAMPPOST_NUMBER" : "5",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "C52F47FD0C2AA3FA",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81375529285695, 1.3302489816546528 ]
+			},
+			"properties" : {
+				"OBJECTID" : 907,
+				"LAMPPOST_NUMBER" : "22",
+				"STREET_NAME" : "Adam Park",
+				"INC_CRC" : "77FEDD32D59CA754",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.793067996468, 1.3346941131575425 ]
+			},
+			"properties" : {
+				"OBJECTID" : 908,
+				"LAMPPOST_NUMBER" : "6",
+				"STREET_NAME" : "Turf Club Road",
+				"INC_CRC" : "17D65FE5EEDB4019",
+				"FMEL_UPD_D" : "20190402161113"
+			}
+		}
+	]
+}
