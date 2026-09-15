@@ -1,3 +1,7 @@
 .env
 
 archive/
+data_location_Landuse/
+data_hedonicPrice/
+geocoding/geocoding_MCST_cYearEstimacion/
+PublicationofBuildingEnergyPerformanceData (1)/

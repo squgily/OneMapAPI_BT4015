@@ -5,7 +5,7 @@ from tqdm import tqdm
 import time
 
 # Load dataset
-df = pd.read_csv("Listing of Building Energy Performance Data 2020.csv")
+df = pd.read_csv("geocoding/OneMap_georeference_commercial_URA/RetailTransaction20260428041104_URA.csv")
 #df["address"] = df["blk_no"].astype(str) + " " + df["street"]
 
 #print(df)
@@ -13,9 +13,9 @@ df = pd.read_csv("Listing of Building Energy Performance Data 2020.csv")
 batch_size = 300
 results = []
 
-start_idx = 0
+start_idx = 1200
 
-for i, addr in enumerate(tqdm(df["buildingaddress"][start_idx:]), start=start_idx):
+for i, addr in enumerate(tqdm(df["Project Name"][start_idx:]), start=start_idx):
 
     url = "https://www.onemap.gov.sg/api/common/elastic/search"
 
@@ -46,11 +46,10 @@ for i, addr in enumerate(tqdm(df["buildingaddress"][start_idx:]), start=start_id
                 "building": r.get("BUILDING"),
                 "address": r.get("ADDRESS"),
                 "postal": r.get("POSTAL"),
-                #"max_floor_lvl": df["max_floor_lvl"].iloc[i],
-                "year_completed": df["yearobtainedtopcsc"].iloc[i],
-                "building_type": df["buildingtype"].iloc[i],
-                "main_building_function": df["mainbuildingfunction"].iloc[i],
-                "gross_floor_area": df["grossfloorarea"].iloc[i]
+                "max_floor_lvl": df["Floor Level"].iloc[i],
+                "building_type": df["Property Type"].iloc[i],
+                "gross_floor_area": df["Area (SQM)"].iloc[i],
+                "unit_price_psm": df["Unit Price ($ PSM)"].iloc[i],
 
             },
             "geometry": {
@@ -61,6 +60,8 @@ for i, addr in enumerate(tqdm(df["buildingaddress"][start_idx:]), start=start_id
                 ]
             }
         }
+
+        #print(feature)
 
 
         results.append(feature)
@@ -76,7 +77,7 @@ for i, addr in enumerate(tqdm(df["buildingaddress"][start_idx:]), start=start_id
 
     # Save every batch
     if (i + 1) % batch_size == 0:
-        filename = f"onemap_energy_performance_data_{i+1}.geojson"
+        filename = f"data_hedonicPrice/retail/onemap_retail_HPM_{i+1}.geojson"
         with open(filename, "w") as f:
             json.dump(geojson, f, indent=2, default=str)
 
@@ -86,5 +87,5 @@ for i, addr in enumerate(tqdm(df["buildingaddress"][start_idx:]), start=start_id
 
 # Save remaining records
 if results:
-    with open("onemap_energy_performance_data_final.geojson", "w") as f:
+    with open("onemap_retail_HPM_final.geojson", "w") as f:
         json.dump(results, f, indent=2, default=str)
